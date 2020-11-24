@@ -1,0 +1,41 @@
+.topbar .avatar {
+    height: 40px;
+    width: 40px;
+}
+.lwa-remember {
+    background: #fff;
+    padding: 20px;
+    border-radius: 0 15px 15px 0;
+    margin-top: 0;
+}
+.lwa .lwa-register {
+    margin: 0 auto;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.login-modal-close{
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
+.login-modal-close .fa.fa-window-close {
+    font-size: 70px;
+    color: #b54141;
+}
+.loginform .lwa.lwa-default {
+    background: rgb(0 0 0 / 75%);
+}
+.register-sc .lwa.lwa-default {
+    margin-top: 100px;
+    color: #fff;
+}
+input#lwa_wp-submit{
+	background-color: #cd9a00;
+	font-size: 15px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-weight: bold;
+}
